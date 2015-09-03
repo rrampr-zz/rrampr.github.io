@@ -1,0 +1,22 @@
+@font-face {
+    font-family: josefin;
+    src: url('josefin-sans/JosefinSans-Thin.ttf');
+}
+
+h1 {
+	font-family: "josefin";
+}
+
+.huge {
+	font-size: 4em;
+}
+
+.profile img {
+	width: 250px;
+	height: 250px;
+}
+
+.text {
+	font-family: "josefin";
+	font-size: 1.4em;
+}
